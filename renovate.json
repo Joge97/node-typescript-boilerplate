@@ -5,9 +5,6 @@
     ":semanticCommitScope(dependencies)"
   ],
   "updateLockFiles": true,
-  "baseBranches": [
-    "develop"
-  ],
   "packageRules": [
     {
       "packageNames": [
